@@ -24,7 +24,7 @@ Time series forecasting refers to the type of problems where we have to predict 
 
 ## data collection
  
- In thi forcasting project we simply collect data from third part api using panda_datareader link of third party api https://www.tiingo.com/ where you can collect 5 year data from any company like google apple samsung any listed or big company and simply analyze those data
+ In thi forcasting project we simply collect data from third part api using panda_datareader link of third party api https://www.tiingo.com/ where you can collect 5 year data from any company like google apple samsung any listed or big company and simply analyze those data,and you can also create your own api key from register from that website,and use api key on you code so that it can extract data from that website
 
 ## Technolgy used
 
