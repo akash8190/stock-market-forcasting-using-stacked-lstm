@@ -1,5 +1,8 @@
 # stock-market-forcasting-using-stacked-lstm
 
+![alt text](https://cdn-images-1.medium.com/max/2000/1*1tDxGyGI4hnUf50a4LX5hQ.png)
+
+
 ## project overview
 
 In this project we simply forcast the stock price of apple with the help of deep learning algoritham name stacked lstm.we simply try to predict future stock for 10 days
