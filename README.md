@@ -29,6 +29,10 @@ All recurrent neural networks have the form of a chain of repeating modules of n
 
 ##  About time series data
 
+![alt text](https://3qeqpr26caki16dnhd19sv6by6v-wpengine.netdna-ssl.com/wp-content/uploads/2017/03/Line-Plot-of-Shampoo-Sales-Dataset-with-Multi-Step-LSTM-Forecasts.png)
+
+
+
 Time series forecasting refers to the type of problems where we have to predict an outcome based on time dependent inputs. A typical example of time series data is stock market data where stock prices change with time. Similarly, the hourly temperature of a particular place also changes and can also be considered as time series data. Time series data is basically a sequence of data, hence time series problems are often referred to as sequence problems.
 
 
